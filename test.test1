@@ -1,0 +1,7 @@
+program DifferOperands {
+   integer x = 12 + 5;
+   real y = 88.0-8.0;
+   integer c = y + x;
+}
+
+

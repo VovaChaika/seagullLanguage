@@ -1,0 +1,8 @@
+program Myname{
+integer a = 2;
+integer i = 2;
+integer b = a^6;
+integer c = b+5;
+if a == b { a+5;}
+for i = 1 by 0.1 to 5 do a+2; rof
+}

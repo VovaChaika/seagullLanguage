@@ -1,0 +1,7 @@
+program ExampleError1 {
+    integer a = 2;
+    integer i = 2;
+    integer h = a+i;
+}
+
+
